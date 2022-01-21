@@ -62,11 +62,11 @@ In these areas with polluted environments and ineffective waste management, abdo
  
  
  <h2>Dataset Used</h2>
- <ol>
+ <ul>
   <li>https://www.kaggle.com/asdasdasasdas/garbage-classification </li>
 <!--   <li>for annotating the images: https://cloud.annotations.ai/ </li>
   <li>for the database to store map coordinates: https://www.ibm.com/in-en/cloud/databases </li> -->
- </ol>
+ </ul>
   
  
   
