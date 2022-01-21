@@ -41,7 +41,7 @@ In these areas with polluted environments and ineffective waste management, abdo
   -->
  
  <h2>The Architecture</h2>
- <img src="https://github.com/Patel-7777/Garbage-Detection/blob/master/architecture1.JPG">
+ <img src="https://github.com/Patel-7777/Garbage-Detection/blob/master/architecture.JPG">
   
   
 <!--   <h2>Long Description</h2>
