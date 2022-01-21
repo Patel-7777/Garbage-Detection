@@ -20,7 +20,7 @@
 
  </ul>
 
-<h2>Short Description</h2>
+<h2> Description</h2>
   <h3>What is the problem?</h3>
   <p> The world generates 2.01 billion tonnes of municipal solid waste annually, with at least 33 percent of that managed in an environmentally unsafe manner. 
   According to estimates, by 2050, the global waste is expected to grow to about 3.40 billion tonnes, which will be more than double of population growth over the same period of time.<br>
@@ -61,9 +61,9 @@ In these areas with polluted environments and ineffective waste management, abdo
 <img src= "https://github.com/mihika-shrivastava/garbage-detection/blob/main/pictures/map.png"> -->
  
  
- <h2>Resources Used</h2>
+ <h2>Dataset Used</h2>
  <ol>
-  <li>for the image dataset: https://www.kaggle.com/asdasdasasdas/garbage-classification </li>
+  <li>https://www.kaggle.com/asdasdasasdas/garbage-classification </li>
 <!--   <li>for annotating the images: https://cloud.annotations.ai/ </li>
   <li>for the database to store map coordinates: https://www.ibm.com/in-en/cloud/databases </li> -->
  </ol>
@@ -71,9 +71,9 @@ In these areas with polluted environments and ineffective waste management, abdo
  
   
 <h2>Team Members</h2> 
-<!-- <a href="https://github.com/mihika-shrivastava/garbage-detection/graphs/contributors">
+<!--  <a href="https://github.com/mihika-shrivastava/garbage-detection/graphs/contributors"> -->
   <!--img src="https://contributors-img.web.app/image?repo=mihika-shrivastava/garbage-detection" /-->
-  <img src= "https://avatars.githubusercontent.com/u/59635299?v=4" width="40" height="40">
+<!--   <img src= "https://avatars.githubusercontent.com/u/59635299?v=4" width="40" height="40">
   <img src= "https://avatars.githubusercontent.com/u/59409466?v=4" width="40" height="40">
   <img src= "https://avatars.githubusercontent.com/u/85937991?v=4" width="40" height="40">
   <img src= "https://avatars.githubusercontent.com/u/69666461?v=4" width="40" height="40">
@@ -81,8 +81,8 @@ In these areas with polluted environments and ineffective waste management, abdo
   
   
   
-</a> -->
-<br>
+</a> 
+<br> -->
 Drashti Fefar (drashtifefar7777@gmail.com)
 <br> 
 Krupali Patel (krupalipatel3013@gmail.com)
