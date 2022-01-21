@@ -21,6 +21,7 @@
  </ul>
 
 <h2> Description</h2>
+<h4>Project sumbitted at Hack4Good hackathon by IEEE CIS SBC</h4>
   <h3>What is the problem?</h3>
   <p> The world generates 2.01 billion tonnes of municipal solid waste annually, with at least 33 percent of that managed in an environmentally unsafe manner. 
   According to estimates, by 2050, the global waste is expected to grow to about 3.40 billion tonnes, which will be more than double of population growth over the same period of time.<br>
