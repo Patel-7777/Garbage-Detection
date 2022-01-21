@@ -37,9 +37,7 @@ In these areas with polluted environments and ineffective waste management, abdo
 
   
  <h2>Presentation Video</h2>
- <a href= 'https://youtu.be/VTUTzssDvWE'>Link to the UPDATED youtube video: Call for Code submission</a>
-<!--  <a href= 'https://youtu.be/D9JnW2KTEbE'>Link to the previous youtube video: Wit Hackathon submission</a>
-  -->
+ <a href= 'https://youtu.be/yDtO8aGVEw8'>Youtube Link</a>
  
  <h2>The Architecture</h2>
  <img src="https://github.com/Patel-7777/Garbage-Detection/blob/master/architecture.JPG">
