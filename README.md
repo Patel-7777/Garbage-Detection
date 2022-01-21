@@ -41,7 +41,7 @@ In these areas with polluted environments and ineffective waste management, abdo
   -->
  
  <h2>The Architecture</h2>
- <img src="./pictures/architecture.png">
+ <img src="./architecture.jpg">
   
   
 <!--   <h2>Long Description</h2>
@@ -54,7 +54,7 @@ In these areas with polluted environments and ineffective waste management, abdo
 
 <h2>The Web Page</h2>
 <!-- <h3>The object detection algorithm on a still image:</h3> -->
-<img src= "https://github.com/mihika-shrivastava/garbage-detection/blob/main/pictures/sample1%20(1).jpg">
+<img src= "webpage.jpg">
 <!-- <h3>The object detection algorithm on a video:</h3>
 <img src= "https://github.com/mihika-shrivastava/garbage-detection/blob/main/pictures/sample2.gif">
 <h3>The location of sites with garbage marked on a map with the help of its location coordiates taken from an IBM database:</h3>
